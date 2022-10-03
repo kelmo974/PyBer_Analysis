@@ -8,7 +8,9 @@ Ride share data was provided by Pyber, a new rideshare startup, with the hopes t
 Jupyter notebooks was used as the main environment for analysis. Two key python libraries were leaned on to carry out analysis. Sorting and aggregation were facilitated by Pandas while Matplotlib allowed for plotting of data on formatted charts. Checkpoints during the coding process were saved and pushed to github. Files containing figures representing the findings can be found in the repo as well.
 
 ## Results
-After chopping and summarizing dataframes of the pyber data, a tidy milti-line graph of fares during quarter 1 was produced. This graph illustrates the total fares in each city/zone type during a given week from January 2019 to April 2019. The trend over time of each market segment differs little from one to the next. Similar increases and dips are obersved throughnout the course of Q1, independent of the city type. 
+After chopping and summarizing dataframes of the pyber data, a tidy milti-line graph of fares during quarter 1 was produced. This graph illustrates the total fares in each city/zone type during a given week from January 2019 to April 2019. The trend over time of each market segment differs little from one to the next. Similar increases and dips are obersved throughnout the course of Q1, independent of the city type. This can be seen in the below figure:
+
+![Figure 1](https://github.com/kelmo974/PyBer_Analysis/blob/main/Challenge/Total_fare_by_city_type_Q1.PNG)
 
 It is the magnitude of each zone that shows the greateast difference. Due to volume of rides, the urban setting has produced the greatest revenue from fares, followed by surburban and rural respectively. 
 
